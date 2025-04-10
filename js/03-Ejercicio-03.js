@@ -1,11 +1,3 @@
-/*
-
-Sumar el resultado de lanzar dos dados 
-y anotar en un array el número de apariciones de dicha suma
-repitiendo 50 veces esta operación.
-
-*/
-
 let dado1;
 let dado2;
 let suma;
